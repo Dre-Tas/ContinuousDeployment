@@ -9,8 +9,6 @@ namespace ContinuousWeb.Tests
         [TestMethod]
         public void AboutPageTest()
         {
-            var homeController = new HomeController();
-            var result = homeController.About();
         }
     }
 }
